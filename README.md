@@ -1,7 +1,7 @@
 ## olá! eu sou o herondi ramos 👋
 
 
--✨ estudando JAVA/JAVASCRIPT/HTML/CSS
+-✨ estudando Git/JAVASCRIPT/HTML/CSS
 
 -🚀 discovering a fantastic world
 
