@@ -1,4 +1,4 @@
-## olá! eu sou o herondi ramos 👋
+## Olá! eu sou o Herondi Ramos 👋
 
 
 -✨ estudando Git/JAVASCRIPT/HTML/CSS/C#,DOTNET/Nodejs/SQL Server
