@@ -1,7 +1,7 @@
 ## Olá! eu sou o Herondi Ramos 👋
 
 
--✨  Git/JS/HTML/CSS/C#/.NET/Nodejs/SQL Server/C++/Docker/API/Azure Devops
+-✨  Git/JAVASCRIPT/HTML/CSS/C#,DOTNET/Nodejs/SQL Server/C++
 
 -🚀 discovering a fantastic world
 
