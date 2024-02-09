@@ -1,9 +1,7 @@
 ## Olá! eu sou o Herondi Ramos 👋
 
 
--✨  Git/JAVASCRIPT/HTML/CSS/C#,DOTNET/Nodejs/SQL Server/C++
 
--🚀 discovering a fantastic world
 
  <div>
   <a href="https://github.com/herondi">
