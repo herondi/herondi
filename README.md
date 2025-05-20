@@ -9,7 +9,6 @@ Sou um desenvolvedor full stack apaixonado por automações, inteligência artif
 - ⚙️ Node.js
 - 🌐 TypeScript, JavaScript
 - 📊 SQL Server, PostgreSQL
-- 🤖 OpenAI, Dify, automações com agentes LLM
 - 🔗 Integrações com APIs externas
 
 
